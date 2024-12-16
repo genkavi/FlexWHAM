@@ -1,4 +1,4 @@
-# README: Biased Simulations Analysis and Free Energy Reconstruction
+# Biased Simulations Analysis and Free Energy Reconstruction
 
 This repository provides a system for analyzing biased simulations and reconstructing potential of mean force (PMF) and free energy (ΔG) profiles for various reaction coordinates. Below is a description of the repository structure and the functionalities provided.
 
