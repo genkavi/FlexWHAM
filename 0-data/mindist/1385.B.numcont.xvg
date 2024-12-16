@@ -1,0 +1,115 @@
+# This file was created Wed Jul  7 13:06:16 2021
+# Created by:
+#                      :-) GROMACS - gmx mindist, 2020 (-:
+# 
+# Executable:   /home/engiray/opt/gromacs-2020/bin/gmx
+# Data prefix:  /home/engiray/opt/gromacs-2020
+# Working dir:  /wrk/engiray/Hanna_SPC_dimers/WHAM/data/mindist
+# Command line:
+#   gmx mindist -f /BIOBACKUP/biofys4/common/Hanna_SPC_dimers/92_systems//89/all_traj.xtc -s /BIOBACKUP/biofys4/common/Hanna_SPC_dimers/92_systems//89/2a_eq_npt.tpr -n index.ndx -od 1385.B.mindist.xvg -on 1385.B.numcont.xvg -or 1385.B.mindistres.xvg -b 100000 -e 4000000 -dt 10000 -respertime
+# gmx mindist is part of G R O M A C S:
+#
+# GROup of MAchos and Cynical Suckers
+#
+@    title "Number of Contacts < 0.6 nm"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "Number"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "chB-chA"
+1.000000e+05        33
+1.100000e+05        39
+1.200000e+05        34
+1.300000e+05        47
+1.400000e+05        24
+1.500000e+05         0
+1.600000e+05         0
+1.700000e+05         4
+1.800000e+05         0
+1.900000e+05         1
+2.000000e+05         0
+2.100000e+05         0
+2.200000e+05         0
+2.300000e+05         0
+2.400000e+05         0
+2.500000e+05         0
+2.600000e+05         0
+2.700000e+05         0
+2.800000e+05         0
+2.900000e+05         0
+3.000000e+05         0
+3.100000e+05         0
+3.200000e+05         0
+3.300000e+05         0
+3.400000e+05         0
+3.500000e+05         0
+3.600000e+05         0
+3.700000e+05         0
+3.800000e+05         0
+3.900000e+05         0
+4.000000e+05         0
+4.100000e+05         0
+4.200000e+05         0
+4.300000e+05         0
+4.400000e+05         0
+4.500000e+05         0
+4.600000e+05         0
+4.700000e+05         0
+4.800000e+05         0
+4.900000e+05         0
+5.000000e+05         0
+5.100000e+05         0
+5.200000e+05         0
+5.300000e+05         0
+5.400000e+05         0
+5.500000e+05         0
+5.600000e+05         0
+5.700000e+05         0
+5.800000e+05         0
+5.900000e+05         0
+6.000000e+05         0
+6.100000e+05         0
+6.200000e+05         0
+6.300000e+05         0
+6.400000e+05         0
+6.500000e+05         0
+6.600000e+05         0
+6.700000e+05         0
+6.800000e+05         0
+6.900000e+05         0
+7.000000e+05         0
+7.100000e+05         0
+7.200000e+05         0
+7.300000e+05         0
+7.400000e+05         0
+7.500000e+05         0
+7.600000e+05         0
+7.700000e+05         0
+7.800000e+05         0
+7.900000e+05         0
+8.000000e+05         0
+8.100000e+05         0
+8.200000e+05         0
+8.300000e+05         0
+8.400000e+05         0
+8.500000e+05         0
+8.600000e+05         0
+8.700000e+05         0
+8.800000e+05         0
+8.900000e+05         0
+9.000000e+05         0
+9.100000e+05         0
+9.200000e+05         0
+9.300000e+05         0
+9.400000e+05         0
+9.500000e+05         0
+9.600000e+05         0
+9.700000e+05         0
+9.800000e+05         0
+9.900000e+05         0
+1.000000e+06         0
